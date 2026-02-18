@@ -1,5 +1,4 @@
-# 💫 About Me:
-Looking for a challenge
+
 
 
 ## 🌐 Socials:
