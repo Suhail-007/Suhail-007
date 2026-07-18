@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer</strong> · New Delhi, India<br/>
-  Building full-stack web apps with React, Next.js, TypeScript & TanStack
+  Building full-stack web apps with React, Next.js, TypeScript, Node.js, PHP & .NET
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About
 
-Software Engineer at **Simublade Technology Pvt. Ltd.** I build modern web applications — from e-commerce platforms and real-time chat apps to developer tools. Currently focused on **TypeScript**, **React 19**, **Next.js**, and **TanStack Start**.
+Software Engineer at **Simublade Technology Pvt. Ltd.** I build modern web applications — from e-commerce platforms and real-time chat apps to developer tools. Experienced across the full stack with **TypeScript**, **React 19**, **Next.js**, **TanStack Start**, **Node.js**, **PHP**, and **.NET (C#)**.
 
 ---
 
@@ -25,7 +25,7 @@ Software Engineer at **Simublade Technology Pvt. Ltd.** I build modern web appli
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [**unveil.skin**](https://github.com/Suhail-007/unveil.skin) | Next.js 16 · React 19 · TypeScript · Supabase · Sequelize · Tailwind | Skincare e-commerce platform with payments, auth & analytics |
-| [**local-env-server**](https://github.com/Suhail-007/local-env-server) | TanStack Start · React · OAuth · Tailwind v4 | **EnvVault** — upload & manage `.env` files in private GitHub/GitLab/Bitbucket repos |
+| **local-env-server** *(EnvVault)* | TanStack Start · React · OAuth · Tailwind v4 | Upload & manage `.env` files in private GitHub/GitLab/Bitbucket repos — *in development* |
 | [**Natours**](https://github.com/Suhail-007/Natours) | SCSS · CSS Grid/Flexbox | Advanced CSS/Sass landing page — tours & travel UI |
 | [**ChatApp**](https://github.com/Suhail-007/ChatApp) | TypeScript | Real-time messaging application |
 | [**quantrodev**](https://github.com/Suhail-007/quantrodev) | TypeScript | Developer-focused web project |
@@ -147,6 +147,9 @@ Software Engineer at **Simublade Technology Pvt. Ltd.** I build modern web appli
 ![TanStack](https://img.shields.io/badge/TanStack-EF4444?style=plastic&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
